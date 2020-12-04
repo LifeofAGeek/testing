@@ -31,8 +31,8 @@ int power(int x, int y) {int res = 1; x %= MOD; while (y) {if (y & 1)res = mul(r
 
 void solve(){
     //code goes here
-    int a,b; cin>>a>>b;
-    cout<<a-1<<" "<<b<<endl;
+    int n; cin>>n;
+    
 }
 
 int32_t main()
